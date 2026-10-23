@@ -1,0 +1,24 @@
+{
+  "manifest_version": 4,
+  "type": "extension",
+  "name": "KDE Theme Sync",
+  "slug": "kde_theme_sync",
+  "version": "1.0.0",
+  "description": "Linux 下自动监听并实时同步 KDE Plasma / XDG 桌面深浅色外观至 QQNT",
+  "authors": [
+    {
+      "name": "deadalux",
+      "link": "https://github.com/eacheat53"
+    }
+  ],
+  "repository": {
+    "repo": "eacheat53/LiteLoaderQQNT-KDE-Theme-Sync",
+    "branch": "main"
+  },
+  "platform": [
+    "linux"
+  ],
+  "injects": {
+    "main": "./src/main.js"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "liteloaderqqnt-kde-theme-sync",
+  "version": "1.0.0",
+  "description": "Automatically syncs Linux QQ theme with KDE Plasma / XDG Desktop Portal color-scheme in real-time.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node --check src/main.js"
+  },
+  "keywords": [
+    "liteloaderqqnt",
+    "liteloaderqqnt-plugin",
+    "kde",
+    "plasma",
+    "xdg-desktop-portal",
+    "theme-sync",
+    "dark-mode",
+    "linux"
+  ],
+  "author": "deadalux <eacheat53@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacheat53/LiteLoaderQQNT-KDE-Theme-Sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eacheat53/LiteLoaderQQNT-KDE-Theme-Sync/issues"
+  },
+  "homepage": "https://github.com/eacheat53/LiteLoaderQQNT-KDE-Theme-Sync#readme"
+}
